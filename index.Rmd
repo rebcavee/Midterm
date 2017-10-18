@@ -1,0 +1,18 @@
+---
+title: "9:00 Section"
+author: "Rebecca Voulgarakis"
+date: "October 15, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here is some arithmetic:
+```{r}
+x<-3
+y<-4
+x-sqrt(y)
+```
+
